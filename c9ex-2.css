@@ -44,13 +44,13 @@ main{
 }
 
 .image1{
-  background-image: url(img/flow01.png);
+  background-image: url(flow01.png);
 }
 .image2{
-  background-image: url(img/flow02.png);
+  background-image: url(flow02.png);
 }
 .image3{
-  background-image: url(img/flow03.png);
+  background-image: url(flow03.png);
 }
 h3{
   padding-top: 15px;
